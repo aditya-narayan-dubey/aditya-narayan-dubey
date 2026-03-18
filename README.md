@@ -1,4 +1,4 @@
-<!-- 🦇 BATMAN THEME README -->
+<!-- 🦇 BATMAN x JOKER THEME README -->
 
 <h1 align="center">
   🦇 ADITYA NARAYAN DUBEY 🦇
@@ -51,18 +51,18 @@
 
 ---
 
-## 🦇 The Code Knight Rises
+## 🃏 Joker Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/26uf1EUQzKKGcIhJS/giphy.gif" width="400"/>
 </p>
 
----
-
-## 🐍 Contribution Snake
+<p align="center">
+  <b>"Introduce a little anarchy... upset the established order... and everything becomes chaos."</b>
+</p>
 
 <p align="center">
-  <img src="https://github.com/aditya-narayan-dubey/aditya-narayan-dubey/blob/output/github-contribution-grid-snake.svg" />
+  🃏 Why so serious? Code like chaos. Build like a legend.
 </p>
 
 ---
