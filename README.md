@@ -1,4 +1,4 @@
-<!-- 🦇 BATMAN x JOKER THEME README -->
+<!-- 🦇 BATMAN THEME README -->
 
 <h1 align="center">
   🦇 ADITYA NARAYAN DUBEY 🦇
@@ -51,21 +51,15 @@
 
 ---
 
-## 🃏 Joker Zone
+## 🦇 The Code Knight Rises
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26uf1EUQzKKGcIhJS/giphy.gif" width="400"/>
-</p>
-
-<p align="center">
-  <b>"Introduce a little anarchy... upset the established order... and everything becomes chaos."</b>
-</p>
-
-<p align="center">
-  🃏 Why so serious? Code like chaos. Build like a legend.
+  <img src="https://media.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" width="400"/>
 </p>
 
 ---
+
+
 
 ## 🦇 Philosophy
 
