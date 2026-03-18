@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&center=true&vCenter=true&width=600&lines=I+am+Vengeance;I+am+the+Night;I+am+a+C%2B%2B+Developer;Future+AI+Engineer+🦇">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&center=true&vCenter=true&width=600&lines=I+am+Vengeance;I+am+the+Night;I+am+a+C%2B%2B+Developer;Future+World+Saviour">
 </p>
 
 ---
