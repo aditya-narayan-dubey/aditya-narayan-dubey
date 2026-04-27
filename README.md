@@ -12,6 +12,21 @@
 
 
 </pre>
-<img width="500" height="300" alt="download (3)" src="https://github.com/user-attachments/assets/c67906d6-ec25-4e34-83c8-176a7efe0841" />
+<table>
+  <tr>
+    <td>
+     <img width="500" height="300" alt="download (3)" src="https://github.com/user-attachments/assets/c67906d6-ec25-4e34-83c8-176a7efe0841" />
+    </td>
+<td>
+  <b>OS -></b> Windows, Linux <br>
+  <b>Editor -></b> VS Code <br>
+  <b>Languages -></b> Python, C++, Html <br>
+  <b>Framework -></b> React js <br>
+  <b>Library -></b> none <br>
+  <b>Goal -></b> code everyday <br>
+  <b>Hobbies -></b> Badminton, listening 
+</td>
+  </tr>
+</table>
 
 
