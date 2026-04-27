@@ -12,5 +12,6 @@
 
 
 </pre>
-<img width="300" height="500" alt="ninja live wallpaper (1)" src="https://github.com/user-attachments/assets/54f0ff90-40e9-407a-af23-c23e63a6dcc0" />
+<img width="500" height="300" alt="download (3)" src="https://github.com/user-attachments/assets/c67906d6-ec25-4e34-83c8-176a7efe0841" />
+
 
