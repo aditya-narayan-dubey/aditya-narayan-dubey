@@ -27,6 +27,6 @@
   <b>Hobbies -></b> Badminton, listening 
 </td>
   </tr>
-</table>
+</table> 
 
 
