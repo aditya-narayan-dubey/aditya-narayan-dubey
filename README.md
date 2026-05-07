@@ -27,7 +27,7 @@
   <b>Framework -></b> React js <br>
   <b>Library -></b> none <br>
   <b>Goal -></b> code everyday <br>
-  <b>Hobbies -></b> Badminton, listening 
+  <b>Hobbies -></b> Badminton, listening music 
 </td>
   </tr>
 </table> 
