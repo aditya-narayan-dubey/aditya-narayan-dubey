@@ -50,7 +50,7 @@
 <table>
   <tr>
     <td>
-     <img width="800" height="200" alt="download (3)" src="https://github.com/user-attachments/assets/afe6c756-75aa-4035-8e23-8875c2ac4212" />
+     <img width="600" height="200" alt="download (3)" src="https://github.com/user-attachments/assets/afe6c756-75aa-4035-8e23-8875c2ac4212" />
 " />
     </td>
 <td>
