@@ -50,7 +50,7 @@
 <table>
   <tr>
     <td>
-     <img width="500" height="300" alt="download (3)" src="https://github.com/user-attachments/assets/c67906d6-ec25-4e34-83c8-176a7efe0841" />
+     <img width="500" height="300" alt="download (3)" src="C:\Users\adity\Downloads\download (4).gif" />
     </td>
 <td>
   <b>OS -></b> Windows, Linux <br>
